@@ -7,5 +7,5 @@ In this video I'll take control of the shell commands that I've been using in ep
 If you want to learn more about the resources in this episode, click below!
 
  - [What the heck is Make?](https://www.youtube.com/watch?v=_r7i5X0rXJk)
- - [The az webapp container command](https://docs.microsoft.com/cli/azure/webapp/config/container?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon)
- - [Install the CLI](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon)
+ - [The az webapp container command](https://docs.microsoft.com/cli/azure/webapp/config/container?view=azure-cli-latest&WT.mc_id=azurecast_005-github-robconery)
+ - [Install the CLI](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=azurecast_005-github-robconery)
